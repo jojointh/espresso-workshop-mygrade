@@ -6,8 +6,9 @@
 .DS_Store
 /build
 /captures
-# Built application files
-/*/build/
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
 
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
@@ -33,6 +34,7 @@ local.properties
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
+.idea/caches
 *.iml
 
 # OS-specific files
